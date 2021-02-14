@@ -1,4 +1,7 @@
 ---
 pageTitle: "title"
 ---
-paragraph of text
+
+<h2>wooo</h2>
+
+<article>paragraph of text</article>

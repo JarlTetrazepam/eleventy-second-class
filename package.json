@@ -1,0 +1,22 @@
+{
+  "name": "eleventy-second-class",
+  "version": "1.0.0",
+  "description": "Second eleventy starter project, still not really interesting to look at",
+  "main": ".eleventy.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarlTetrazepam/eleventy-second-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarlTetrazepam/eleventy-second-class/issues"
+  },
+  "homepage": "https://github.com/JarlTetrazepam/eleventy-second-class#readme"
+}

@@ -1,6 +1,6 @@
 ---
 pageTitle: dateCheck
-lastModified: Last Modified
 ---
+# date:
 
 14.2.21 01:54
