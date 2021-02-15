@@ -1,0 +1,11 @@
+<header>
+    <nav>
+        <ul>
+            {%- for post in collections.posts -%}
+                <li><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </nav>
+    <h1>{{ pageTitle }}</h1>
+        <span>Created at: {{ page.date | toUTC }}</span>
+</header>

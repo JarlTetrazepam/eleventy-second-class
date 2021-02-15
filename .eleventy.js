@@ -8,4 +8,15 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("toUTC", function(date) {
         return date.toUTCString().substring(0, date.toUTCString().lastIndexOf(" ")) + " UTC";   //timeDate is usually displayed as local TZ, this fixes that
     });
+
+    eleventyConfig.addShortcode("hasTags", function(page) {
+
+    });
+
+    return {    //cleaning up lib by using src as input folder
+        dir: {
+            input: "src"
+        }
+    }
   };
+

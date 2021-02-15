@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Second eleventy starter project, still not really interesting to look at",
   "main": ".eleventy.js",
-  "dependencies": {},
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1"
   },
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
